@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533608977403",
+    "project_id": "walkaround-8355c",
+    "storage_bucket": "walkaround-8355c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533608977403:android:c4b4429f1208e54a1c715e",
+        "android_client_info": {
+          "package_name": "com.example.walkaround"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_pho7yggEz8IM-_7kjOybltyj2gci52Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
